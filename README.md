@@ -20,7 +20,7 @@ Click on Open and select the AVLTreeProject directory.
 
 Open AVLTree.java in IntelliJ IDEA.
 
-Click on the green run arrow next to the main method or right-click and select Run 'AVLTreeProject-2021.main()'.
+Click on the green run arrow next to the main method or right-click and select Run 'Main.main()'.
 
 ## Functionality of the Project
 The AVLTree class provides the following functionality:
